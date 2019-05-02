@@ -1,0 +1,8 @@
+Analyzing Python script C:\dev\python\prfuk-python-samples\arcpy\arcpy-python-2.py for use within ArcGISPro:
+WARNING 001683: Found Python 2 to 3 errors: Line 10: 	print "--------------------" -> 	print("--------------------")
+Line 11: 	print workspace -> 	print(workspace)
+Line 12: 	print "--------------------" -> 	print("--------------------")
+Line 14: 	print "Tridy prvku:" -> 	print("Tridy prvku:")
+Line 17: 		print fc -> 		print(fc)
+Line 19: 	print "Rastry:" -> 	print("Rastry:")
+Line 22: 		print raster -> 		print(raster) within script C:\dev\python\prfuk-python-samples\arcpy\arcpy-python-2.py
